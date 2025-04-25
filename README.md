@@ -30,7 +30,7 @@ I'll follow the tutorial and expand from there by building small projects to rei
 | `05_structs_enums/` | Data types and enums for custom logic           |
 | `...`               | More modules as I learn more!                   |
 
-> You can follow my commit history to track my progress in real-time.
+> You can follow my commit history to track my progress in real-time (you stalker 😻).
 
 ---
 
